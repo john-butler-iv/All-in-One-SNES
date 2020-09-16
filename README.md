@@ -1,1 +1,4 @@
 # All-in-One-SNES
+I loaded a Raspberry Pi with some SNES ROMs. I then soldered connections to an old SNES cartridge. With the help of an Arduino for extra pins and some C code to properly address the ROM and save RAM, the goal was to be able to play SNES games much more easily.<br/>
+Ultimately I discovered that the setup I had could not read and write fast enough to keep up with the SNES. I did not have the resources to acquire another board that could and had enough pins, but I still gained quite a lot from this, such as learning more about the SNES hardware, learning how to solder, learning how to utilize serial communication, and more experience with optimizing the C language.<br/>
+I took some pictures of the soldered board and put them in this album: https://photos.app.goo.gl/nBu56YU1QNEC1eZY6
